@@ -1,0 +1,6 @@
+{
+  "appId": "com.dinesh.pwa",
+  "appName": "nextpwa",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
